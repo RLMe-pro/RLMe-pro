@@ -193,7 +193,7 @@
     display: flex;
     align-items: center;
     padding: 5px;
-    width: 340px;
+    width: 100%;
     border-bottom: 1px dashed black;
 }
 .video{
